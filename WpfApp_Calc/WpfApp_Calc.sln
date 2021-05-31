@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfApp_Calc", "WpfApp_Calc.csproj", "{2F4C864E-498E-44A5-B522-ACF990892360}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp_Calc.UnitTests", "..\WpfApp_Calc.UnitTests\WpfApp_Calc.UnitTests.csproj", "{C8B90BA8-22BD-4BAD-8A66-DCAC9CEF1968}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F4C864E-498E-44A5-B522-ACF990892360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F4C864E-498E-44A5-B522-ACF990892360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F4C864E-498E-44A5-B522-ACF990892360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F4C864E-498E-44A5-B522-ACF990892360}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8B90BA8-22BD-4BAD-8A66-DCAC9CEF1968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8B90BA8-22BD-4BAD-8A66-DCAC9CEF1968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8B90BA8-22BD-4BAD-8A66-DCAC9CEF1968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8B90BA8-22BD-4BAD-8A66-DCAC9CEF1968}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA380221-5652-42EA-BA07-FB7B4F812EA9}
+	EndGlobalSection
+EndGlobal
