@@ -1,0 +1,32 @@
+dodac git ignore do repozytorium 
+
+
+nowa klasa inpterpreter - serwis? 
+
+- ma za zadanie spojrzeć na ciag symboli w klasie Equation i poprawnie zinterpretowac dzialanie
+
+- jedna metoda void Inperpret()
+	
+przypadki ( rowniez do testowania )
+2+2 ( oczywiscie tez inne dzialania typu odejmowanie, mnozenie, dzielenie )
+
+2+2*2 ( kolejnosc dzialania )
+
+2*(2+2) ( ponownie kolejnosc dzialania; tym razem z wykorzystaniem 
+
+
+
+==========================================
+druga opcja, to tworzenie equatation jako nowych obiektow z wlasciwosciami
+
+class Equation
+{
+//property
+	numbers	( na poczatek niech to beda dwie liczby )
+	calculation type : dodawane, odejmownaie, mnozenie ( przechowywane jako obiekty typu ICalculation)
+	priority ( dodawanie i odejmowanie mają np. level, mnozenie i dzielenie level 1, nawiasy level 2
+
+//metoda
+void Calculate() ma uruchamia metode z calculation type 
+}
+
