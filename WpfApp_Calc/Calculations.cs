@@ -4,10 +4,10 @@ namespace WpfApp_Calc
 {
     public class Calculations
     {
-        private Equation LastEquation { get; set; }
+        private IEquation LastEquation { get; set; }
 
 
-        public Calculations(Equation lastEquation)
+        public Calculations(IEquation lastEquation)
         {
             LastEquation = lastEquation;
         }

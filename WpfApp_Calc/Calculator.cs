@@ -6,9 +6,9 @@ namespace WpfApp_Calc
 {
     public class Calculator
     {
-        public List<Equation> Memory { get; set; } = new();
+        public List<IEquation> Memory { get; set; } = new();
         public Calculations Calculations { get; set; }
-        public Equation CurrentEquation { get; set; } = new();
+        public IEquation CurrentEquation { get; set; } = new Equation();
 
 
         public void ChangeLastSymbolInTheMemory(string symbol)

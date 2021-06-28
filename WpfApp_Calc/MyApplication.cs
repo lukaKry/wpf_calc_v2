@@ -97,7 +97,7 @@ namespace WpfApp_Calc
             AdditionalDisplay.ChangeDisplay(newInputForAdditionalDisplay);
         }
 
-        private string PrepareInputForAdditionalDisplay(Equation equation)
+        private string PrepareInputForAdditionalDisplay(IEquation equation)
         {
             StringBuilder sb = new();
             for (int i = 0; i < equation.Numbers.Count; i++)
