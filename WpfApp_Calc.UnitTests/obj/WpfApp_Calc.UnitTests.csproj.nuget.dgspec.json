@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Łukasz\\source\\repos\\Wpf_Calc_v2\\WpfApp_Calc.UnitTests\\WpfApp_Calc.UnitTests.csproj": {}
+    "D:\\wpf_calc_v2\\WpfApp_Calc.UnitTests\\WpfApp_Calc.UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Łukasz\\source\\repos\\Wpf_Calc_v2\\WpfApp_Calc.UnitTests\\WpfApp_Calc.UnitTests.csproj": {
+    "D:\\wpf_calc_v2\\WpfApp_Calc.UnitTests\\WpfApp_Calc.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Łukasz\\source\\repos\\Wpf_Calc_v2\\WpfApp_Calc.UnitTests\\WpfApp_Calc.UnitTests.csproj",
+        "projectUniqueName": "D:\\wpf_calc_v2\\WpfApp_Calc.UnitTests\\WpfApp_Calc.UnitTests.csproj",
         "projectName": "WpfApp_Calc.UnitTests",
-        "projectPath": "C:\\Users\\Łukasz\\source\\repos\\Wpf_Calc_v2\\WpfApp_Calc.UnitTests\\WpfApp_Calc.UnitTests.csproj",
-        "packagesPath": "C:\\Users\\Łukasz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Łukasz\\source\\repos\\Wpf_Calc_v2\\WpfApp_Calc.UnitTests\\obj\\",
+        "projectPath": "D:\\wpf_calc_v2\\WpfApp_Calc.UnitTests\\WpfApp_Calc.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\CC\\.nuget\\packages\\",
+        "outputPath": "D:\\wpf_calc_v2\\WpfApp_Calc.UnitTests\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Łukasz\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\CC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,8 +28,8 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "C:\\Users\\Łukasz\\source\\repos\\Wpf_Calc_v2\\WpfApp_Calc\\WpfApp_Calc.csproj": {
-                "projectPath": "C:\\Users\\Łukasz\\source\\repos\\Wpf_Calc_v2\\WpfApp_Calc\\WpfApp_Calc.csproj"
+              "D:\\wpf_calc_v2\\WpfApp_Calc\\WpfApp_Calc.csproj": {
+                "projectPath": "D:\\wpf_calc_v2\\WpfApp_Calc\\WpfApp_Calc.csproj"
               }
             }
           }
@@ -88,25 +84,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Łukasz\\source\\repos\\Wpf_Calc_v2\\WpfApp_Calc\\WpfApp_Calc.csproj": {
+    "D:\\wpf_calc_v2\\WpfApp_Calc\\WpfApp_Calc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Łukasz\\source\\repos\\Wpf_Calc_v2\\WpfApp_Calc\\WpfApp_Calc.csproj",
+        "projectUniqueName": "D:\\wpf_calc_v2\\WpfApp_Calc\\WpfApp_Calc.csproj",
         "projectName": "WpfApp_Calc",
-        "projectPath": "C:\\Users\\Łukasz\\source\\repos\\Wpf_Calc_v2\\WpfApp_Calc\\WpfApp_Calc.csproj",
-        "packagesPath": "C:\\Users\\Łukasz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Łukasz\\source\\repos\\Wpf_Calc_v2\\WpfApp_Calc\\obj\\",
+        "projectPath": "D:\\wpf_calc_v2\\WpfApp_Calc\\WpfApp_Calc.csproj",
+        "packagesPath": "C:\\Users\\CC\\.nuget\\packages\\",
+        "outputPath": "D:\\wpf_calc_v2\\WpfApp_Calc\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Łukasz\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\CC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -149,7 +141,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
