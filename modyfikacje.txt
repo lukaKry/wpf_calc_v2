@@ -5,6 +5,14 @@ przeniesienie setArguments do wewnątrz klas implementujacych ICalculation
 
 // pytania Do Radka
 Memory.cs -->> pytanie w komentarzu
+czy za kazdym wlaczniem komputera trzeba wystartowac gittortoise pageant i zaladowac klucz prywatny? 
+
+// Podsumowanie
+program oparty o obiekty ICalculation
+metoda Solve rekurencyjnie rozwiazuje rownania: suma, roznica, mnozenie, mix
+uwzglednione priority ( na razie miedzy dodawaniem i mnozeniem ) 
+dodany plik .gitignore
+korzystam z gittortoise
 
 
 
