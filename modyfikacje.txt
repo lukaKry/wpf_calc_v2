@@ -111,3 +111,12 @@ stworzenie powyzszej metody
 stworzenie testow 
 podmiana z obcnej metody calculate na nowo stworzoną 
 
+
+// pytania Do Radka
+Memory.cs -->> pytanie w komentarzu
+
+
+
+
+zrobic przelew robertowi
+
