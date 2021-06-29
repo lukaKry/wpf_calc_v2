@@ -58,5 +58,28 @@ namespace WpfApp_Calc
                 throw new DivideByZeroException();
             }
         }
+
+        public void CalculateModified()
+        {
+            try
+            {
+                // jak by to musialo wygladac
+                // CurrentEquation ma trzy property : Liste symboli, numerow i rezultat, 
+                // werjsa zmodyfikowana ma jeszcze typ kalkulacji
+
+                // 2 + 2 * 2 
+
+                //  [ 2 , 2 , 2 ]
+                // [  "+" , "*" ]
+
+                // interpreter bierze pierwszy znak i analizuje
+                // wynikiem jest obiekt ICalculation typu Summary
+
+            }
+            catch (DivideByZeroException)
+            {
+                throw new DivideByZeroException();
+            }
+        }
     }
 }
