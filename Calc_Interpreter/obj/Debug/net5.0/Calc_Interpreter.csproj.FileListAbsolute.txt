@@ -1,0 +1,16 @@
+D:\wpf_calc_v2\Calc_Interpreter\obj\Debug\net5.0\Calc_Interpreter.csproj.AssemblyReference.cache
+D:\wpf_calc_v2\Calc_Interpreter\obj\Debug\net5.0\Calc_Interpreter.GeneratedMSBuildEditorConfig.editorconfig
+D:\wpf_calc_v2\Calc_Interpreter\obj\Debug\net5.0\Calc_Interpreter.AssemblyInfoInputs.cache
+D:\wpf_calc_v2\Calc_Interpreter\obj\Debug\net5.0\Calc_Interpreter.AssemblyInfo.cs
+D:\wpf_calc_v2\Calc_Interpreter\obj\Debug\net5.0\Calc_Interpreter.csproj.CoreCompileInputs.cache
+D:\wpf_calc_v2\Calc_Interpreter\bin\Debug\net5.0\Calc_Interpreter.exe
+D:\wpf_calc_v2\Calc_Interpreter\bin\Debug\net5.0\Calc_Interpreter.deps.json
+D:\wpf_calc_v2\Calc_Interpreter\bin\Debug\net5.0\Calc_Interpreter.runtimeconfig.json
+D:\wpf_calc_v2\Calc_Interpreter\bin\Debug\net5.0\Calc_Interpreter.runtimeconfig.dev.json
+D:\wpf_calc_v2\Calc_Interpreter\bin\Debug\net5.0\Calc_Interpreter.dll
+D:\wpf_calc_v2\Calc_Interpreter\bin\Debug\net5.0\ref\Calc_Interpreter.dll
+D:\wpf_calc_v2\Calc_Interpreter\bin\Debug\net5.0\Calc_Interpreter.pdb
+D:\wpf_calc_v2\Calc_Interpreter\obj\Debug\net5.0\Calc_Interpreter.dll
+D:\wpf_calc_v2\Calc_Interpreter\obj\Debug\net5.0\ref\Calc_Interpreter.dll
+D:\wpf_calc_v2\Calc_Interpreter\obj\Debug\net5.0\Calc_Interpreter.pdb
+D:\wpf_calc_v2\Calc_Interpreter\obj\Debug\net5.0\Calc_Interpreter.genruntimeconfig.cache
